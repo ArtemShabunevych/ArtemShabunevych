@@ -46,7 +46,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemShabunevychE&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArtemShabunevych&theme=github_dark&utcOffset=2" />
 </p>
 
