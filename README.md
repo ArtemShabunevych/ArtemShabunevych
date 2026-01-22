@@ -22,13 +22,6 @@
 
 ---
 
-## 🏆 GitHub Profile Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArtemShabunevychE&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArtemShabunevych&show_icons=true&theme=tokyonight" />
@@ -62,7 +55,7 @@
 ## 🔗 Connect with me
 <p align="left">
   <a href="https://github.com/ArtemShabunevych">
-    <a href="https://telegram.com/@Wouhny_UA">
+    <a href="https://web.telegram.org/a/@Wouhny_UA">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
