@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://t.me/Wouhny_UA">
-    <img src="https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram" 
-      /></a>
+    <img src="https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram"/>
+  </a>
   <img src="https://img.shields.io/badge/Discord-artemschabunevych-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
