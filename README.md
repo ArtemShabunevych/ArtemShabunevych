@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">Frontend / Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="ArtemShabunevych" />
@@ -60,5 +60,5 @@
   <a href="https://t.me/Wouhny_UA">
     <img src="https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram" 
       /></a>
-  <img src="https://img.shields.io/badge/Discord-wouhny-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-artemschabunevych-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
