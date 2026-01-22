@@ -55,7 +55,8 @@
 ## 🔗 Connect with me
 <p align="left">
   <a href="https://github.com/ArtemShabunevych">
-    <a href="https://web.telegram.org/a/@Wouhny_UA">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
+  
+  <a href="https://t.me/Wouhny_UA"><img src="https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram" /></a>
 </p>
