@@ -24,44 +24,44 @@
 
 ## 🏆 GitHub Profile Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArtemShabunevychE&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtemShabunevych&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemShabunevych&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArtemShabunevych&theme=github-compact" />
 </p>
 
 ---
 
 ## 📋 Profile Summary Cards
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemShabunevych&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USERNAME&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=USERNAME&theme=github_dark&utcOffset=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemShabunevychE&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArtemShabunevych&theme=github_dark&utcOffset=2" />
 </p>
 
 ---
 
 ## 🔗 Connect with me
 <p align="left">
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/ArtemShabunevych">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
