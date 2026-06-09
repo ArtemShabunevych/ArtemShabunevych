@@ -8,8 +8,8 @@
 ---
 
 ## 🚀 About Me
-- 💻 I’m working with **JavaScript, React, Node.js**
-- 🌦️ Building real projects (Weather App, API-based apps, UI/UX)
+- 💻 I’m working with **JavaScript, React, Node.js, TypeScript**
+- 🌦️ Building real projects (Fan_Fiction, SoundGravity, Weather App, API-based apps, UI/UX)
 - 📚 Always learning **clean architecture & modern frontend**
 - ⚡ Interested in **performance, UI animations, and APIs**
 
